@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[](breaking_technology/images/doodlebug.png)
 
 Here are some ideas to get you started:
 
