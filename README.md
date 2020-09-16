@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](breaking_technology/images/doodlebug.png)
+![](https://github.com/ajith-m-doodlebug/breaking_technology/blob/master/images/doodlebug.png)
 
 Here are some ideas to get you started:
 
