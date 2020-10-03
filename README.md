@@ -3,5 +3,5 @@
 
 - 🌱 I’m currently learning ... Algorithms 
 - 💬 Ask me about ... Flutter, Dart, Firebase, Algorithms  
-- 📫 How to reach me: ... [linkdIn](www.linkedin.com/in/ajith-m-doodlebug)
+- 📫 How to reach me: ... [linkdIn](www.linkedin.com/in/ajith-m-doodlebug/)
 
