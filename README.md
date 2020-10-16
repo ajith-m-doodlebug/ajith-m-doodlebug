@@ -6,6 +6,6 @@
 ## Algorithms 
 # Ask me about 
 ## Flutter, Dart, Firebase, Algorithms  
-# How to reach me
+# Contact me at
 ## [linkdIn](www.linkedin.com/in/ajith-m-doodlebug/)
 
