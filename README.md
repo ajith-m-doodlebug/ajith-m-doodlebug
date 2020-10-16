@@ -7,5 +7,5 @@
 # Ask me about 
 ## Flutter, Dart, Firebase, Algorithms  
 # Contact me at
-## [linkdIn](www.linkedin.com/in/ajith-m-doodlebug/)
+## [linkdIn](https://www.linkedin.com/in/ajith-m-doodlebug/)
 
