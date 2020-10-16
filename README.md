@@ -12,5 +12,5 @@
 
 </div>
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<naman26jain>&theme=<THEME_NAME>" />--><hr>
-<img src="https://github-readme-stats.vercel.app/api?username=naman26jain&theme=tokyonight&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=ajith-m-doodlebug&theme=tokyonight&show_icons=true">
 <!--[![HitCount](http://hits.dwyl.com/naman26jain/HEP.svg)](http://hits.dwyl.com/naman26jain/HEP)h-->
