@@ -11,5 +11,5 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=ajith-m-doodlebug&theme=blackwhite&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=ajith-m-doodlebug&theme=greywhite&show_icons=true">
 
