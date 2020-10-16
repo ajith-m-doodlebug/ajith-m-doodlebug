@@ -8,4 +8,4 @@
 ## Flutter, Dart, Firebase, Algorithms  
 # Contact me at
 ## [linkdIn](https://www.linkedin.com/in/ajith-m-doodlebug/)
-![linkdin](https://user-images.githubusercontent.com/58944893/96246822-cfd95480-0fc6-11eb-9308-24dfad42b419.png)
+[![linkdin](https://user-images.githubusercontent.com/58944893/96246822-cfd95480-0fc6-11eb-9308-24dfad42b419.png)][https://www.linkedin.com/in/ajith-m-doodlebug/]
