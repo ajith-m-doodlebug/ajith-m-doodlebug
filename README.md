@@ -9,9 +9,4 @@
 # Contact me at
 [![linkdin](https://user-images.githubusercontent.com/58944893/96246822-cfd95480-0fc6-11eb-9308-24dfad42b419.png)](https://www.linkedin.com/in/ajith-m-doodlebug)
 
-<div class="text-purple">
-  This text is purple, <a href="#" class="text-inherit">including the link</a>
-</div>
-<div class="text-blue mb-2">
-  .text-blue on white
-</div>
+
