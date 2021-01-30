@@ -4,7 +4,7 @@
 ## I am good at
 #### Flutter, Dart, UI design 
 ## I’m currently learning 
-#### Algorithms 
+#### Machine learning, Algorithms 
 ## Ask me about 
 #### Flutter, Dart, Firebase, Algorithms  
 ## Contact me at
