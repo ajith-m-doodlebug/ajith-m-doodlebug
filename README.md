@@ -7,7 +7,12 @@
 ## Ask me about 
 #### Flutter, Dart, Firebase, Algorithms  
 
-## Contact me at
+## My tech Stack
+<img src="https://img.shields.io/badge/-Flutter-51BFF0?style=for-the-badge"> <img src="https://img.shields.io/badge/-Dart-015496?style=for-the-badge"> 
+<img src="https://img.shields.io/badge/-Firebase-F7C62F?style=for-the-badge"> <img src="https://img.shields.io/badge/-Git-E84D31?style=for-the-badge"> 
+<img src="https://img.shields.io/badge/-Adobe XD-2C031C?style=for-the-badge">
+
+## Connect with me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajith-m-doodlebug)
 
 ![Ajith M's Github Stats](https://github-readme-stats.vercel.app/api?username=ajith-m-doodlebug&show_icons=true_color=fff&icon_color=33FFA8&text_color=9f9f9f&bg_color=23282E)
