@@ -4,13 +4,14 @@
 #### Flutter, Dart, UI design 
 ## I’m currently learning 
 #### Machine learning, Algorithms 
-## Ask me about 
-#### Flutter, Dart, Firebase, Algorithms  
 
 ## My tech Stack
 <img src="https://img.shields.io/badge/-Flutter-51BFF0?style=for-the-badge"> <img src="https://img.shields.io/badge/-Dart-015496?style=for-the-badge"> 
 <img src="https://img.shields.io/badge/-Firebase-F7C62F?style=for-the-badge"> <img src="https://img.shields.io/badge/-Git-E84D31?style=for-the-badge"> 
-<img src="https://img.shields.io/badge/-Adobe XD-2C031C?style=for-the-badge">
+<img src="https://img.shields.io/badge/-Adobe XD-F30F01?style=for-the-badge">
+
+## I’m currently learning
+<img src="https://img.shields.io/badge/-Machine learning-350100?style=for-the-badge"> <img src="https://img.shields.io/badge/-Algorithms-purple?style=for-the-badge"> 
 
 ## Connect with me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajith-m-doodlebug)
