@@ -1,6 +1,8 @@
 <h1 align="center"> Hi There 👋 I am AJITH </h1>
 
-My [Portfolio website](https://ajith-m.netlify.app/#/) 
+=> My [Portfolio website](https://ajith-m.netlify.app/#/)
+=> I am pursuing my Computer Science in spl. in Data Science degree at VIT, Vellore
+=> I am Intrested in doing inovative projects
 
 ## My tech Stack
 <img src="https://img.shields.io/badge/-Flutter-51BFF0?style=for-the-badge"> <img src="https://img.shields.io/badge/-Dart-015496?style=for-the-badge"> 
