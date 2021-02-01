@@ -10,7 +10,7 @@
 ## Contact me at
 [![linkdin](https://user-images.githubusercontent.com/58944893/96246822-cfd95480-0fc6-11eb-9308-24dfad42b419.png)](https://www.linkedin.com/in/ajith-m-doodlebug)
 
-![Ajith M's Github Stats](https://github-readme-stats.vercel.app/api?username=ajith-m-doodlebug&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Ajith M's Github Stats](https://github-readme-stats.vercel.app/api?username=ajith-m-doodlebug&show_icons=true_color=fff&icon_color=33FFA8&text_color=9f9f9f&bg_color=23282E)
 
 #### Thanks for visiting :heart: 
 ![VisitorCount](https://profile-counter.glitch.me/ajith-m-doodlebug/count.svg)
