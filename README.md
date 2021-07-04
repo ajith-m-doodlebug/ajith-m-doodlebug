@@ -12,7 +12,7 @@
 
 ## I’m currently learning
 <img src="https://img.shields.io/badge/-Machine learning-green?style=for-the-badge"> <img src="https://img.shields.io/badge/-Algorithms-purple?style=for-the-badge">
-<img src="https://img.shields.io/badge/-Java-orange?style=for-the-badge"> 
+<img src="https://img.shields.io/badge/-Python-orange?style=for-the-badge"> 
 
 ## Connect with me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajith-m-doodlebug)
