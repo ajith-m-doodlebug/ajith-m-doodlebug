@@ -7,8 +7,9 @@
 
 ## My tech Stack
 <img src="https://img.shields.io/badge/-Flutter-51BFF0?style=for-the-badge"> <img src="https://img.shields.io/badge/-Dart-015496?style=for-the-badge"> 
-<img src="https://img.shields.io/badge/-Firebase-F7C62F?style=for-the-badge"> <img src="https://img.shields.io/badge/-Git-E84D31?style=for-the-badge"> 
-<img src="https://img.shields.io/badge/-Adobe XD-F30F01?style=for-the-badge"> <img src="https://img.shields.io/badge/-C-green?style=for-the-badge"> 
+<img src="https://img.shields.io/badge/-Firebase-F7C62F?style=for-the-badge"> <img src="https://img.shields.io/badge/-Python-51BFF0?style=for-the-badge"> 
+<img src="https://img.shields.io/badge/-TensorFlow-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/-Flask-green?style=for-the-badge"> 
+<img src="https://img.shields.io/badge/-Git-E84D31?style=for-the-badge"> <img src="https://img.shields.io/badge/-Adobe XD-F30F01?style=for-the-badge"> 
 
 ## I’m currently learning
 <img src="https://img.shields.io/badge/-Machine learning-green?style=for-the-badge"> <img src="https://img.shields.io/badge/-Data Science-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/-Python-purple?style=for-the-badge"> 
