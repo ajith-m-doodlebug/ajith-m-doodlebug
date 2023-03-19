@@ -1,4 +1,6 @@
+
 # 💫 About Me:
+Hi, I'm AJITH M <br><br>
 As a student and a developer with a passion for creating innovative solutions, I possess an eye for detail and problem-solving capabilities.<br><br>
 I have hands-on experience with a wide range of technologies, including:<br>• Programming: Solidity, Dart, Python, Java, HTML, CSS, JavaScript.<br>• Libraries and frameworks: Ethereum, Truffle, Ganache, Web3, Flutter, Pandas, NumPy, Scikit-learn, Flask.<br>• Database Systems: Firebase.<br>• Tools and IDEs: Metamask, Git, GitHub, BitBucket, Heroku, Jupyter Notebook, Visual Studio Code, Android Studio.<br><br>Which I use for:<br>• Blockchain Development,<br>• Data Science,<br>• Flutter Development and more!!
 
