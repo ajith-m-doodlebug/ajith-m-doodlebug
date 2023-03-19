@@ -16,8 +16,5 @@ I have hands-on experience with a wide range of technologies, including:<br>• 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ajith-m-doodlebug&theme=flat&no-frame=true&no-bg=false&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=ajith_doodlebug)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
